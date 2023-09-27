@@ -1,0 +1,9 @@
+[[LibCHTTPClient]]
+arch = "x86_64"
+git-tree-sha1 = "82473aa869c8e3ad2b06bf1d8427f67aff6543ac"
+libc = "glibc"
+os = "linux"
+
+    [[LibCHTTPClient.download]]
+    sha256 = "345c9c9c915099deca020c98545ac9f5a535461b42d2162bcd5e4d586aca9e52"
+    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.0+0/LibCHTTPClient.v1.0.0.x86_64-linux-gnu.tar.gz"
