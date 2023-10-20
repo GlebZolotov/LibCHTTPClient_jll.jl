@@ -5,21 +5,21 @@ os = "macos"
 
     [[LibCHTTPClient.download]]
     sha256 = "e04b21703138ab440c341cdbee542c02368e8be8651fffffb4f36b0485e7f3b3"
-    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.2+0/LibCHTTPClient.v1.0.2.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.6+0/LibCHTTPClient.v1.0.6.aarch64-apple-darwin.tar.gz"
 [[LibCHTTPClient]]
 arch = "x86_64"
-git-tree-sha1 = "3fbb7d2610839be4537571ec7221b6e0b4502fb6"
+git-tree-sha1 = "c14198012b3ae3420bf1224448e0015fec2f6238"
 os = "macos"
 
     [[LibCHTTPClient.download]]
-    sha256 = "bd0b3217405b2e4d9d0e440f6a58802ab481c963a3f70f1999fda4dc4583f06c"
-    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.2+0/LibCHTTPClient.v1.0.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "ed65ef8cd9d1b8bdfdf78fda57141d2f2da15426b4e67962f4ed04837d219a8d"
+    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.6+0/LibCHTTPClient.v1.0.6.x86_64-apple-darwin.tar.gz"
 [[LibCHTTPClient]]
 arch = "x86_64"
-git-tree-sha1 = "4ea63d49c1b7b62075d47893f8420554f18ea40c"
+git-tree-sha1 = "694f1d967db2157b0bb5d9469bacb84758d5644d"
 libc = "glibc"
 os = "linux"
 
     [[LibCHTTPClient.download]]
-    sha256 = "d718a3157a4898c6e119138ab4a11b78106281ffab99fd217047976669827ec8"
-    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.2+0/LibCHTTPClient.v1.0.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "3e0e05f7572c1d593639459b7f67c18538b6169eb3e208ddfd91f097eda5b2f4"
+    url = "https://github.com/GlebZolotov/LibCHTTPClient_jll.jl/releases/download/LibCHTTPClient-v1.0.6+0/LibCHTTPClient.v1.0.6.x86_64-linux-gnu.tar.gz"
